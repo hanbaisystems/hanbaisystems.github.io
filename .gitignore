@@ -1,0 +1,20 @@
+# Jekyll
+.jekyll-cache/
+.jekyll-metadata
+_site/
+
+# Ruby Gem
+Gemfile.lock
+vendor/
+
+# Package manager
+node_modules
+
+# Editor specific files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+*.log
+*.swp

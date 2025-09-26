@@ -1,0 +1,18 @@
+url: "https://hanbai.systems"
+title: "Ханбай системс ХХК"
+lang: mn
+
+plugins:
+  - jekyll-postcss-v2
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+postcss:
+  cache: false
+
+exclude:
+  - node_modules
+  - package.json
+  - package-lock.json
+  - postcss.config.js
+  - tailwind.config.js

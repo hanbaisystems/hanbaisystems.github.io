@@ -1,0 +1,21 @@
+{
+  "name": "hanbaisystems",
+  "version": "1.0.0",
+  "description": "Corporate website for Hanbai Systems LLC built with the Jekyll static site generator.",
+  "type": "commonjs",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "scripts": {
+    "build": "jekyll build",
+    "dev": "jekyll serve --livereload",
+    "start": "jekyll serve --open-url",
+    "serve": "jekyll serve"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.13",
+    "autoprefixer": "^10.4.21",
+    "cssnano": "^7.1.1",
+    "postcss": "^8.5.6",
+    "postcss-cli": "^11.0.1",
+    "tailwindcss": "^4.1.13"
+  }
+}
